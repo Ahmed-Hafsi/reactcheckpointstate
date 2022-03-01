@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactcheckpointstate/static/css/main.073c9b0a.css",
+    "main.js": "/reactcheckpointstate/static/js/main.d2d33d3a.js",
+    "static/js/787.066509c6.chunk.js": "/reactcheckpointstate/static/js/787.066509c6.chunk.js",
+    "index.html": "/reactcheckpointstate/index.html",
+    "main.073c9b0a.css.map": "/reactcheckpointstate/static/css/main.073c9b0a.css.map",
+    "main.d2d33d3a.js.map": "/reactcheckpointstate/static/js/main.d2d33d3a.js.map",
+    "787.066509c6.chunk.js.map": "/reactcheckpointstate/static/js/787.066509c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d2d33d3a.js"
+  ]
+}
